@@ -16,7 +16,7 @@ terraform {
     organization = "rio-hashicorp"
 
     workspaces {
-      name = "learn-sentinel-tfc"
+      name = "demo-cost-policy"
     }
   }
 
