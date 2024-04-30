@@ -7,6 +7,7 @@ variable "instance_type" {
   description = "Type of EC2 instance to provision"
   default = "24xlarge"
 }
+#
 
 variable "instance_name" {
   description = "EC2 instance name"
